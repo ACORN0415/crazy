@@ -1,0 +1,114 @@
+{
+ "cell": 40,
+ "wall": [
+  {
+   "file": "wall_0.png",
+   "w": 40,
+   "h": 94
+  },
+  {
+   "file": "wall_1.png",
+   "w": 40,
+   "h": 94
+  },
+  {
+   "file": "wall_2.png",
+   "w": 40,
+   "h": 47
+  },
+  {
+   "file": "wall_3.png",
+   "w": 40,
+   "h": 96
+  },
+  {
+   "file": "wall_4.png",
+   "w": 40,
+   "h": 69
+  },
+  {
+   "file": "wall_5.png",
+   "w": 40,
+   "h": 69
+  }
+ ],
+ "block": [
+  {
+   "file": "block_0.png",
+   "w": 40,
+   "h": 48
+  },
+  {
+   "file": "block_1.png",
+   "w": 40,
+   "h": 48
+  }
+ ],
+ "push": [
+  {
+   "file": "push_0.png",
+   "w": 40,
+   "h": 48
+  }
+ ],
+ "bush": [
+  {
+   "file": "bush_0.png",
+   "w": 40,
+   "h": 59
+  },
+  {
+   "file": "bush_1.png",
+   "w": 40,
+   "h": 59
+  }
+ ],
+ "floor": [
+  {
+   "file": "floor_0.png",
+   "w": 40,
+   "h": 40
+  },
+  {
+   "file": "floor_1.png",
+   "w": 40,
+   "h": 40
+  }
+ ],
+ "decor": {
+  "truckG": {
+   "file": "decor_truckG.png",
+   "w": 80,
+   "h": 150
+  },
+  "truckR": {
+   "file": "decor_truckR.png",
+   "w": 80,
+   "h": 150
+  }
+ },
+ "floorNamed": {
+  "p": {
+   "file": "floorNamed_p.png",
+   "w": 40,
+   "h": 40
+  },
+  "h": {
+   "file": "floorNamed_h.png",
+   "w": 40,
+   "h": 40
+  },
+  "v": {
+   "file": "floorNamed_v.png",
+   "w": 40,
+   "h": 40
+  }
+ },
+ "named": {
+  "N": {
+   "file": "named_N.png",
+   "w": 40,
+   "h": 47
+  }
+ }
+}

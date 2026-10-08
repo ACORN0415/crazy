@@ -1,0 +1,90 @@
+{
+ "cell": 40,
+ "wall": [
+  {
+   "file": "wall_0.png",
+   "w": 40,
+   "h": 67
+  },
+  {
+   "file": "wall_1.png",
+   "w": 40,
+   "h": 66
+  },
+  {
+   "file": "wall_2.png",
+   "w": 40,
+   "h": 67
+  }
+ ],
+ "block": [
+  {
+   "file": "block_0.png",
+   "w": 40,
+   "h": 46
+  }
+ ],
+ "push": [
+  {
+   "file": "push_0.png",
+   "w": 40,
+   "h": 47
+  }
+ ],
+ "bush": [
+  {
+   "file": "bush_0.png",
+   "w": 40,
+   "h": 59
+  },
+  {
+   "file": "bush_1.png",
+   "w": 40,
+   "h": 59
+  }
+ ],
+ "floor": [
+  {
+   "file": "floor_0.png",
+   "w": 40,
+   "h": 40
+  },
+  {
+   "file": "floor_1.png",
+   "w": 40,
+   "h": 40
+  }
+ ],
+ "named": {
+  "S": {
+   "file": "named_S.png",
+   "w": 40,
+   "h": 49
+  },
+  "K": {
+   "file": "named_K.png",
+   "w": 40,
+   "h": 58
+  },
+  "b": {
+   "file": "named_b.png",
+   "w": 40,
+   "h": 60
+  },
+  "g": {
+   "file": "named_g.png",
+   "w": 40,
+   "h": 60
+  },
+  "y": {
+   "file": "named_y.png",
+   "w": 40,
+   "h": 60
+  },
+  "r": {
+   "file": "named_r.png",
+   "w": 40,
+   "h": 60
+  }
+ }
+}

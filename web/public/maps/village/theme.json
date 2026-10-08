@@ -1,0 +1,68 @@
+{
+ "cell": 40,
+ "wall": [
+  {
+   "file": "wall_0.png",
+   "w": 40,
+   "h": 56
+  },
+  {
+   "file": "wall_1.png",
+   "w": 40,
+   "h": 56
+  },
+  {
+   "file": "wall_2.png",
+   "w": 40,
+   "h": 57
+  },
+  {
+   "file": "wall_3.png",
+   "w": 40,
+   "h": 67
+  }
+ ],
+ "block": [
+  {
+   "file": "block_0.png",
+   "w": 40,
+   "h": 45
+  },
+  {
+   "file": "block_1.png",
+   "w": 40,
+   "h": 45
+  }
+ ],
+ "push": [
+  {
+   "file": "push_0.png",
+   "w": 40,
+   "h": 45
+  }
+ ],
+ "bush": [
+  {
+   "file": "bush_0.png",
+   "w": 40,
+   "h": 59
+  },
+  {
+   "file": "bush_1.png",
+   "w": 40,
+   "h": 59
+  }
+ ],
+ "floor": [
+  {
+   "file": "floor_0.png",
+   "w": 40,
+   "h": 40
+  },
+  {
+   "file": "floor_1.png",
+   "w": 40,
+   "h": 40
+  }
+ ]
+}

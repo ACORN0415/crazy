@@ -1,0 +1,472 @@
+{
+ "cell": 40,
+ "bubble": [
+  {
+   "file": "fx/bubble_0.png",
+   "size": [
+    44,
+    41
+   ]
+  },
+  {
+   "file": "fx/bubble_1.png",
+   "size": [
+    44,
+    41
+   ]
+  },
+  {
+   "file": "fx/bubble_2.png",
+   "size": [
+    44,
+    41
+   ]
+  }
+ ],
+ "trap": [
+  {
+   "file": "fx/trap_0.png",
+   "size": [
+    60,
+    65
+   ]
+  },
+  {
+   "file": "fx/trap_1.png",
+   "size": [
+    60,
+    65
+   ]
+  },
+  {
+   "file": "fx/trap_2.png",
+   "size": [
+    60,
+    65
+   ]
+  },
+  {
+   "file": "fx/trap_3.png",
+   "size": [
+    60,
+    65
+   ]
+  }
+ ],
+ "flame": {
+  "center": [
+   "fx/flame_c0.png",
+   "fx/flame_c1.png",
+   "fx/flame_c2.png"
+  ],
+  "down_mid": [
+   "fx/flame_down_mid.png"
+  ],
+  "down_end": [
+   "fx/flame_down_end0.png",
+   "fx/flame_down_end1.png",
+   "fx/flame_down_end2.png",
+   "fx/flame_down_end3.png"
+  ],
+  "left_mid": [
+   "fx/flame_left_mid.png"
+  ],
+  "left_end": [
+   "fx/flame_left_end0.png",
+   "fx/flame_left_end1.png",
+   "fx/flame_left_end2.png",
+   "fx/flame_left_end3.png"
+  ],
+  "right_mid": [
+   "fx/flame_right_mid.png"
+  ],
+  "right_end": [
+   "fx/flame_right_end0.png",
+   "fx/flame_right_end1.png",
+   "fx/flame_right_end2.png",
+   "fx/flame_right_end3.png"
+  ],
+  "up_mid": [
+   "fx/flame_up_mid.png"
+  ],
+  "up_end": [
+   "fx/flame_up_end0.png",
+   "fx/flame_up_end1.png",
+   "fx/flame_up_end2.png",
+   "fx/flame_up_end3.png"
+  ]
+ },
+ "items": {
+  "bubble": {
+   "file": "items/bubble.png",
+   "size": [
+    38,
+    38
+   ]
+  },
+  "dart": {
+   "file": "items/dart.png",
+   "size": [
+    38,
+    38
+   ]
+  },
+  "devil": {
+   "file": "items/devil.png",
+   "size": [
+    38,
+    38
+   ]
+  },
+  "kick": {
+   "file": "items/kick.png",
+   "size": [
+    38,
+    38
+   ]
+  },
+  "needle": {
+   "file": "items/needle.png",
+   "size": [
+    38,
+    38
+   ]
+  },
+  "owl": {
+   "file": "items/owl.png",
+   "size": [
+    38,
+    38
+   ]
+  },
+  "pirate_turtle": {
+   "file": "items/pirate_turtle.png",
+   "size": [
+    38,
+    38
+   ]
+  },
+  "potion": {
+   "file": "items/potion.png",
+   "size": [
+    38,
+    38
+   ]
+  },
+  "red_devil": {
+   "file": "items/red_devil.png",
+   "size": [
+    38,
+    38
+   ]
+  },
+  "roller": {
+   "file": "items/roller.png",
+   "size": [
+    38,
+    38
+   ]
+  },
+  "shield": {
+   "file": "items/shield.png",
+   "size": [
+    38,
+    38
+   ]
+  },
+  "spring": {
+   "file": "items/spring.png",
+   "size": [
+    38,
+    38
+   ]
+  },
+  "turtle": {
+   "file": "items/turtle.png",
+   "size": [
+    38,
+    38
+   ]
+  },
+  "ufo": {
+   "file": "items/ufo.png",
+   "size": [
+    38,
+    38
+   ]
+  },
+  "ultra": {
+   "file": "items/ultra.png",
+   "size": [
+    56,
+    70
+   ]
+  }
+ },
+ "mounts": {
+  "turtle": {
+   "up": [
+    {
+     "file": "mounts/turtle_up_0.png",
+     "size": [
+      29,
+      30
+     ]
+    },
+    {
+     "file": "mounts/turtle_up_1.png",
+     "size": [
+      29,
+      30
+     ]
+    }
+   ],
+   "down": [
+    {
+     "file": "mounts/turtle_down_0.png",
+     "size": [
+      30,
+      31
+     ]
+    },
+    {
+     "file": "mounts/turtle_down_1.png",
+     "size": [
+      29,
+      31
+     ]
+    }
+   ],
+   "left": [
+    {
+     "file": "mounts/turtle_left_0.png",
+     "size": [
+      41,
+      31
+     ]
+    },
+    {
+     "file": "mounts/turtle_left_1.png",
+     "size": [
+      42,
+      31
+     ]
+    }
+   ],
+   "right": [
+    {
+     "file": "mounts/turtle_right_0.png",
+     "size": [
+      41,
+      31
+     ]
+    },
+    {
+     "file": "mounts/turtle_right_1.png",
+     "size": [
+      42,
+      31
+     ]
+    }
+   ]
+  },
+  "pirate_turtle": {
+   "up": [
+    {
+     "file": "mounts/pirate_turtle_up_0.png",
+     "size": [
+      29,
+      30
+     ]
+    },
+    {
+     "file": "mounts/pirate_turtle_up_1.png",
+     "size": [
+      30,
+      30
+     ]
+    }
+   ],
+   "down": [
+    {
+     "file": "mounts/pirate_turtle_down_0.png",
+     "size": [
+      30,
+      31
+     ]
+    },
+    {
+     "file": "mounts/pirate_turtle_down_1.png",
+     "size": [
+      29,
+      31
+     ]
+    }
+   ],
+   "left": [
+    {
+     "file": "mounts/pirate_turtle_left_0.png",
+     "size": [
+      41,
+      31
+     ]
+    },
+    {
+     "file": "mounts/pirate_turtle_left_1.png",
+     "size": [
+      42,
+      31
+     ]
+    }
+   ],
+   "right": [
+    {
+     "file": "mounts/pirate_turtle_right_0.png",
+     "size": [
+      41,
+      31
+     ]
+    },
+    {
+     "file": "mounts/pirate_turtle_right_1.png",
+     "size": [
+      42,
+      31
+     ]
+    }
+   ]
+  },
+  "ufo": {
+   "up": [
+    {
+     "file": "mounts/ufo_up_0.png",
+     "size": [
+      50,
+      28
+     ]
+    },
+    {
+     "file": "mounts/ufo_up_1.png",
+     "size": [
+      50,
+      30
+     ]
+    }
+   ],
+   "down": [
+    {
+     "file": "mounts/ufo_down_0.png",
+     "size": [
+      50,
+      26
+     ]
+    },
+    {
+     "file": "mounts/ufo_down_1.png",
+     "size": [
+      50,
+      29
+     ]
+    }
+   ],
+   "left": [
+    {
+     "file": "mounts/ufo_left_0.png",
+     "size": [
+      50,
+      28
+     ]
+    },
+    {
+     "file": "mounts/ufo_left_1.png",
+     "size": [
+      50,
+      30
+     ]
+    }
+   ],
+   "right": [
+    {
+     "file": "mounts/ufo_right_0.png",
+     "size": [
+      50,
+      30
+     ]
+    },
+    {
+     "file": "mounts/ufo_right_1.png",
+     "size": [
+      50,
+      28
+     ]
+    }
+   ]
+  },
+  "owl": {
+   "up": [
+    {
+     "file": "mounts/owl_up_0.png",
+     "size": [
+      36,
+      33
+     ]
+    },
+    {
+     "file": "mounts/owl_up_1.png",
+     "size": [
+      40,
+      33
+     ]
+    }
+   ],
+   "down": [
+    {
+     "file": "mounts/owl_down_0.png",
+     "size": [
+      36,
+      33
+     ]
+    },
+    {
+     "file": "mounts/owl_down_1.png",
+     "size": [
+      38,
+      34
+     ]
+    }
+   ],
+   "left": [
+    {
+     "file": "mounts/owl_left_0.png",
+     "size": [
+      33,
+      34
+     ]
+    },
+    {
+     "file": "mounts/owl_left_1.png",
+     "size": [
+      32,
+      35
+     ]
+    }
+   ],
+   "right": [
+    {
+     "file": "mounts/owl_right_0.png",
+     "size": [
+      33,
+      34
+     ]
+    },
+    {
+     "file": "mounts/owl_right_1.png",
+     "size": [
+      32,
+      35
+     ]
+    }
+   ]
+  }
+ }
+}

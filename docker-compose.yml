@@ -1,0 +1,15 @@
+services:
+  server:
+    build: ./server
+    restart: unless-stopped
+
+  web:
+    build: ./web
+    depends_on:
+      - server
+    ports:
+      - "${WEB_PORT:-8080}:80"
+    volumes:
+      # 캐릭터 그림을 넣고 새로고침만 하면 반영된다 (다시 빌드할 필요 없음)
+      - ./web/public/characters:/usr/share/nginx/html/characters:ro
+    restart: unless-stopped
